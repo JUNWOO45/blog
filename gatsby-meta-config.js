@@ -5,7 +5,7 @@ module.exports = {
   introduction: `기록을 남기는 것을 좋아하는 프론트엔드 개발자입니다.`,
   siteUrl: `https://agitated-aryabhata-69cfdb.netlify.com/`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
+    twitter: ``, // Your Twitter account!
     github: `junwoo45`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
